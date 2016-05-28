@@ -12,6 +12,10 @@
 
 * Ability to save the specified IP (when the app is opened first time the default is 192.168.1.1)
 
+### Note:
+
+* The ping timeout period is set to 100ms so if IP ping is higher than 100ms will be shown as DEAD!
+
 ### Requirements:
 
 > Windows XP (SP3), Vista (SP1 or above), Windows 7, Windows 8/8.1 or Windows 10
